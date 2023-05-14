@@ -1,4 +1,4 @@
-IP Range Port Scanner
+**IP Range Port Scanner**
 
 This Python script allows you to scan for open ports within a specified IP range or on a single IP address. It utilizes the socket module to establish TCP connections and checks for open ports on each IP address in the given range or the specified IP.
 
